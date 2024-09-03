@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <h1>kracken</h1>
     </div>
-  );
+  )
 }
 
 export default App
