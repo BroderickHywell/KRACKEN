@@ -1,5 +1,5 @@
 import './App.css'
-import kraken from './kracken.svg'
+import kracken from './kracken.svg'
 import Header from './Header.js'
 
 
@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Header />
       <h1>kracken</h1>
-      <img src={kraken} className='kraken-logo'/>
+      <img src={kracken} className='kracken-logo' alt='kracken-logo'/>
     </div>
   )
 }
